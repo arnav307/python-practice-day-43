@@ -5,5 +5,4 @@ def list_number(list1, list2):
         return False
 
 
-print(list_number(["arnav", "ram", "shyam"], ["arnav", "ram", "shyam"]))  
-print(list_number(["arnav", "ram", "shyam"], ["arnav", "ram"]))  
+print(list_number(["arnav", "ram", "shyam"], ["arnav", "ram","shyhw"]))  
